@@ -11,24 +11,3 @@ buttonEl.addEventListener("click", () => {
   colorEl.textContent = bodyEl.style.backgroundColor;
 
 });
-
-
-
-
-
-
-console.log(buttonEl)
-
-
-
-
-
-
-// const changeBtnColor=()=>{
-//   bodyEl.style.backgroundColor=getRandomHexColor();
-//   colorName.textContent=bodyColor.style.backgroundColor
-// }
-// btnColor.addEventListener("click",changeBtnColor)
-
-
-
